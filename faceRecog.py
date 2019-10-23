@@ -46,6 +46,5 @@ while True:
         break
 
 print(a)
-video.release(
+video.release()
 cv2.destroyAllWindows()
-
